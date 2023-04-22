@@ -29,7 +29,7 @@ body{
     position: fixed;
     transform: rotate(360deg);
     
-    bottom: 150px;
+    bottom: -10px;
     
     background-color: black;
     border-top: 1px solid rgb(133, 131, 131);
