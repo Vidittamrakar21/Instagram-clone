@@ -7,6 +7,8 @@ and it also consist an  Instagram feature of liking post  by double clicking on 
 
 
 
+
+
 ![Screenshot (274)](https://user-images.githubusercontent.com/114985411/233854252-ceacfbf2-4dce-4ca1-ae8d-65d54774d4fe.png)
 ![Screenshot (342)](https://user-images.githubusercontent.com/114985411/233854257-fcfb82fe-b7ea-4f6f-b978-74c30c240a25.png)
 ![Screenshot (276)](https://user-images.githubusercontent.com/114985411/233854259-075cc0fc-f5a1-4086-a162-13e1ed6fcbbb.png)
