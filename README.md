@@ -6,6 +6,10 @@ and it also consist an  Instagram feature of liking post  by double clicking on 
 
 
 
+https://user-images.githubusercontent.com/114985411/234083349-8337e20c-2666-420c-a390-d430f95ca250.mp4
+
+
+
 
 
 
